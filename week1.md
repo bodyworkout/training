@@ -1,6 +1,6 @@
 # Week 1 - exercise diary
 
-## Day 1 | apr 9
+## Day 1 | apr 8
 
 * **Kettlebell swing** `16kg` 15 -> 1 reps with 15 -> 1 sec wait
 * [abs workout](http://youtu.be/BsaD-BadB9M) : hard for a first but seems very effective
