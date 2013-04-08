@@ -1,4 +1,0 @@
-training
-========
-
-Training journal
